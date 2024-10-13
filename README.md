@@ -9,7 +9,7 @@
 - <b>Bank Customer Classification: Predicting Term Deposit Subscriptions (Model Deployment)</b>
   - [Bank Customer Classification: Predicting Term Deposit Subscriptions](https://github.com/teofilussanprasetya/bank_customer_classification)
 
-- 📫 How to reach me **teofilussp454@gmail.com**
+📫How to reach me **teofilussp454@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
