@@ -8,6 +8,8 @@
 
 - <b>Bank Customer Classification: Predicting Term Deposit Subscriptions (Model Deployment)</b>
   - [Bank Customer Classification: Predicting Term Deposit Subscriptions](https://github.com/teofilussanprasetya/bank_customer_classification)
+- <b>Stock Price Prediction Using LSTM (LSTM)</b>
+  - [Stock Price Prediction Using LSTM](https://github.com/teofilussanprasetya/Stock_Price_Prediction_LSTM)
 
 📫How to reach me **teofilussp454@gmail.com**
 
