@@ -12,6 +12,9 @@
   - [Stock Price Prediction Using LSTM](https://github.com/teofilussanprasetya/Stock_Price_Prediction_LSTM)
 - <b>Image Generation and Reconstruction on MNIST using GAN and Autoencoder Models (Deep Learning)</b>
   - [Image Generation and Reconstruction on MNIST using GAN and Autoencoder Models](https://github.com/teofilussanprasetya/Image_Generation_and_Reconstruction_on_MNIST_using_GAN_and_Autoencoder_Models)
+- <b>Multiclass Batik Image Classification (Deep Learning)</b>
+    [Multiclass Batik Image Classification](https://github.com/teofilussanprasetya/multiclass_batik_image_classification)
+
 
 📫How to reach me **teofilussp454@gmail.com**
 
