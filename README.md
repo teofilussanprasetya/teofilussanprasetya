@@ -4,6 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teofilussanprasetya&label=Profile%20views&color=0e75b6&style=flat" alt="teofilussanprasetya" /> </p>
 <p> I'm an undergraduate Data Science student passionate about machine learning, data visualization, and deep learning. Experienced in applying analytical techniques and solving real-world problems through data-driven insights. I'm committed to continuous learning and leveraging technology to build impactful solutions.</p>
 
+<h2>👨‍💻Projects:</h2>
+
+- <b>Bank Customer Classification: Predicting Term Deposit Subscriptions (Model Deployment)</b>
+  - [Bank Customer Classification: Predicting Term Deposit Subscriptions](https://github.com/teofilussanprasetya/bank_customer_classification)
+
 - 📫 How to reach me **teofilussp454@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
