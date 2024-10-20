@@ -9,13 +9,13 @@
 - <b>Bank Customer Classification: Predicting Term Deposit Subscriptions (Model Deployment)</b>
   - [Bank Customer Classification: Predicting Term Deposit Subscriptions](https://github.com/teofilussanprasetya/bank_customer_classification)
 - <b>Client Credit Status and Delinquency Insights (SQL & Tableau)</b>
-    [Client Credit Status and Delinquency Insights (SQL & Tableau)](https://github.com/teofilussanprasetya/Credit-Data_Analysis_SQL_Tableau)
+  - [Client Credit Status and Delinquency Insights (SQL & Tableau)](https://github.com/teofilussanprasetya/Credit-Data_Analysis_SQL_Tableau)
 - <b>Stock Price Prediction Using LSTM (LSTM)</b>
   - [Stock Price Prediction Using LSTM](https://github.com/teofilussanprasetya/Stock_Price_Prediction_LSTM)
 - <b>Image Generation and Reconstruction on MNIST using GAN and Autoencoder Models (Deep Learning)</b>
   - [Image Generation and Reconstruction on MNIST using GAN and Autoencoder Models](https://github.com/teofilussanprasetya/Image_Generation_and_Reconstruction_on_MNIST_using_GAN_and_Autoencoder_Models)
 - <b>Multiclass Batik Image Classification (Deep Learning)</b>
-    [Multiclass Batik Image Classification](https://github.com/teofilussanprasetya/multiclass_batik_image_classification)
+  - [Multiclass Batik Image Classification](https://github.com/teofilussanprasetya/multiclass_batik_image_classification)
 
 
 📫How to reach me **teofilussp454@gmail.com**
